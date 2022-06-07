@@ -1,0 +1,14 @@
+{
+    "swPath": "ShaderBall_w.jpg", 
+    "textureFiles": [
+        "Wenneker-W-100.jpg",
+		"Light Booth_GRAY.exr"
+    ], 
+    "maPath": "ShaderBall.ma", 
+    "Faces/Trianges": "34180/68232", 
+    "ssPath": "ShaderBall_s.jpg", 
+    "thumbPath": "ShaderBall_thumb.jpg", 
+    "objPath": "ShaderBall.obj", 
+    "sourceProject": "S:/00_WEN-STUFF/03_STOCK/03_3D MODELS/ShaderBall/scenes/AxF_Previews_ShaderBall.004.mb", 
+    "assetName": "ShaderBall"
+}
